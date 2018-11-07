@@ -4,8 +4,8 @@ Biomass burning aersol over W.Africa
 
 
 # Author
-John Smith
-Sophie Jones
+John Smith, University of Elsewhere
+Sophie Jones, University of Manchester
 
 # Abstract
 We write this last because it's difficult to do.
