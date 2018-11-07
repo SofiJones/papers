@@ -18,6 +18,9 @@ It reproduces the growth in size distribution observed and suggests coagulation 
 #Methodology
 We used an AMS (Allen et al 1999) to measure particle mass and chemical composition.
 
+# Results
+We observed particle growth through coagulation, and report the changing chemical composition with age in the atmosphere.
+
 #Conclusions
 We made some ground breaking discovery, aren't we great.
 There's more to do, give us more funding.
