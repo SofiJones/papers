@@ -1,8 +1,9 @@
 #Title
-Biomass burning aersol over W.Africa
+Simulations of Biomass burning aersol over W.Africa
 
 #Author
 Sophie Jones
+John Smith
 
 #Introduction
 Hayword et al (1999) made some great measurements of BBOA over the Sahara.
