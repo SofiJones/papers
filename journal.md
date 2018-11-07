@@ -7,6 +7,10 @@ Biomass burning aersol over W.Africa
 Sophie Jones
 John Smith
 
+# Abstract
+We write this last because it's difficult to do.
+This is where we summarise our main results so lazy people have to read the whole thing but can still reference it.
+
 # Introduction
 Hayword et al (1999) made some great measurements of BBOA over the Sahara.
 We add to these measurements, with chemical composition data, using an aerosol mass spectrometer (Allen et al 2000).
